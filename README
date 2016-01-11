@@ -13,9 +13,6 @@ risk.
 
 Currently, the following plugins are available:
 
-.. toctree::
-   :maxdepth: 1
-
    af_packet - A packet source providing native AF_Packet support on
    Linux. <af_packet/README>
 
